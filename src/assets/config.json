@@ -1,0 +1,8 @@
+{
+    "listaClientes": "http://localhost:33755/Cliente/ListaClientes",
+    "getByCpf": "http://localhost:33755/Cliente/GetByCpf/",
+    "insertUpdateAsync": "http://localhost:33755/Cliente/InsertUpdateAsync",
+    "deleteAsync": "http://localhost:33755/Cliente/DeleteAsync",
+    "textfile": "assets/textfile.txt",
+    "date": "2020-01-29"
+  }
